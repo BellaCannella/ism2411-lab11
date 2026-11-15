@@ -1,3 +1,16 @@
+# AI USE: Explainer (asked to help explain the questions as well as
+#         describing some steps I needed to take to make my code work)
+
+print("---Reflection questions---")
+#1. In a real-world situation I would use .get() in situations such as 
+#   getting a customer's information (ex. phone number), because it may not
+#   be listed. As for bracket notation, I would use that for information
+#   that I'm confident exists such as the customer's name.
+
+#2. Me personally, I don't know enough about excel to understand the similarities, 
+#   but for the loop, python would be able to process much more information
+#   compared to excel which makes it better for large datasets.
+
 print("---Exercise 1 - One Customer---")
 
 customer = {"name": "Isabella",
